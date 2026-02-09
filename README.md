@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Netflix Dataset Analysis Project
 
 ## 📌 Problem Statement
@@ -94,3 +95,6 @@ It can be extended further into:
 
 ## 👨‍💻 Author
 Internship Project by: Akhilesh
+=======
+# Data-science-internship
+>>>>>>> e440ee14ba495a7437f8043e0cc9547d1e1cdbc6
